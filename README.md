@@ -30,6 +30,7 @@ registered.
 
 This was annoying to say the least.
 
-I captured the packets to and from the phone using such tools as tcpdump and Wireshark. I found that there were some interesting anomalies.
+I captured the packets to and from the phone using such tools as 
+[tcpdump](http://www.tcpdump.org/) and [Wireshark](https://www.wireshark.org/). I found that there were some interesting anomalies.
 
-For full details, please vist our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
+For full details of my work, please vist our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
