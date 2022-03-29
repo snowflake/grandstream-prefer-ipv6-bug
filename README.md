@@ -3,7 +3,7 @@
 Research to find out why my [Grandstream](https://www.grandstream.com)
 phone does not use an IPv4 SIP account when Prefer IPv6 is enabled.
 
-For full details, please vist our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
+For full details, please visit our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
 
 I have a Grandstream GRP2612 VOIP phone which I have owned since 2019.  It works well and I have had no real problems with it until now.
 
@@ -33,4 +33,4 @@ This was annoying to say the least.
 I captured the packets to and from the phone using such tools as 
 [tcpdump](http://www.tcpdump.org/) and [Wireshark](https://www.wireshark.org/). I found that there were some interesting anomalies.
 
-For full details of my work, please vist our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
+For full details of my work, please visit our [wiki](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) on Github.
